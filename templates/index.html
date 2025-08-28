@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Relatório de Voos - Flightradar24</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Relatório de Chegadas</h1>
+
+    <!-- Input e Botão -->
+    <form onsubmit="gerarRelatorio(event)">
+        <label for="airport">Código do Aeroporto (IATA):</label>
+        <input type="text" id="airport" placeholder="Digite o código do aeroporto (ex: BSB)" required>
+        <button type="submit">Gerar</button>
+      
+      <!-- ALERTA ENTRE O BOTÃO E O INPUT -->
+        <p><strong>Status:</strong> <span id="status">Aguardando ação...</span></p>
+    </form>
+
+    <!-- Relatório exibido aqui -->
+    <h2>Relatório:</h2>
+    <div id="relatorio" class="relatorio-container"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

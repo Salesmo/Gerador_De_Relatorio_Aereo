@@ -1,0 +1,4784 @@
+{
+    "Airport": "Brasilia International Airport",
+    "Arrivals": [
+        {
+            "date": {
+                "month": "May",
+                "week-day": "Saturday",
+                "day": 10
+            },
+            "info": [
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYP",
+                    "airline": "LATAM Airlines -",
+                    "airport": "PVH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3669",
+                    "from": "Porto Velho",
+                    "status": "Landed",
+                    "time": "05:25",
+                    "timeStatus": "05:13"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "HP-1847CMP",
+                    "airline": "Copa Airlines -",
+                    "airport": "PTY",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "CM895",
+                    "from": "Panama City",
+                    "status": "Landed",
+                    "time": "05:40",
+                    "timeStatus": "05:25"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHE",
+                    "airline": "LATAM Airlines -",
+                    "airport": "RBR",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3675",
+                    "from": "Rio Branco",
+                    "status": "Landed",
+                    "time": "05:45",
+                    "timeStatus": "05:20"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYL",
+                    "airline": "LATAM Airlines -",
+                    "airport": "STM",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3841",
+                    "from": "Santarem",
+                    "status": "Landed",
+                    "time": "05:50",
+                    "timeStatus": "05:27"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GRD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MCO",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G37601",
+                    "from": "Orlando",
+                    "status": "Landed",
+                    "time": "06:05",
+                    "timeStatus": "06:54"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMP",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "BVB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31122",
+                    "from": "Boa Vista",
+                    "status": "Landed",
+                    "time": "06:05",
+                    "timeStatus": "05:32"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GEK",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MAB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31673",
+                    "from": "Maraba",
+                    "status": "Landed",
+                    "time": "06:15",
+                    "timeStatus": "05:50"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GZU",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "THE",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31519",
+                    "from": "Teresina",
+                    "status": "Landed",
+                    "time": "06:35",
+                    "timeStatus": "06:06"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMV",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "BOG",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G38243",
+                    "from": "Bogota",
+                    "status": "Landed",
+                    "time": "06:55",
+                    "timeStatus": "06:15"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-VBF",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "AEP",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G37061",
+                    "from": "Buenos Aires",
+                    "status": "Landed",
+                    "time": "07:00",
+                    "timeStatus": "06:42"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "CC-BFN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "LIM",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA2402",
+                    "from": "Lima",
+                    "status": "Landed",
+                    "time": "07:00",
+                    "timeStatus": "07:28"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYV",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MCP",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3769",
+                    "from": "Macapa",
+                    "status": "Landed",
+                    "time": "07:00",
+                    "timeStatus": "06:52"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXE",
+                    "airline": "LATAM Airlines -",
+                    "airport": "JPA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3495",
+                    "from": "Joao Pessoa",
+                    "status": "Landed",
+                    "time": "07:05",
+                    "timeStatus": "06:56"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBL",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3754",
+                    "from": "Goiania",
+                    "status": "Landed",
+                    "time": "07:05",
+                    "timeStatus": "06:47"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TQC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BVB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3711",
+                    "from": "Boa Vista",
+                    "status": "Landed",
+                    "time": "07:10",
+                    "timeStatus": "06:39"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GPD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31743",
+                    "from": "Manaus",
+                    "status": "Landed",
+                    "time": "07:15",
+                    "timeStatus": "06:44"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31707",
+                    "from": "Fortaleza",
+                    "status": "Landed",
+                    "time": "07:20",
+                    "timeStatus": "06:59"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "THE",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3851",
+                    "from": "Teresina",
+                    "status": "Landed",
+                    "time": "07:20",
+                    "timeStatus": "07:02"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3123",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "07:08"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXL",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3739",
+                    "from": "Fortaleza",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "07:06"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYR",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3501",
+                    "from": "Maraba",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "07:17"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3747",
+                    "from": "Manaus",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "07:04"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGR",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3717",
+                    "from": "Campo Grande",
+                    "status": "Landed",
+                    "time": "07:30",
+                    "timeStatus": "07:16"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MCZ",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3763",
+                    "from": "Maceio",
+                    "status": "Landed",
+                    "time": "07:30",
+                    "timeStatus": "07:13"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMM",
+                    "airline": "GOL Linhas Aereas (Conheça o Brasil Voando) -",
+                    "airport": "PVH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31477",
+                    "from": "Porto Velho",
+                    "status": "Landed",
+                    "time": "07:30",
+                    "timeStatus": "07:10"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CWB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3775",
+                    "from": "Curitiba",
+                    "status": "Landed",
+                    "time": "07:30",
+                    "timeStatus": "07:12"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXB",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3811",
+                    "from": "Salvador",
+                    "status": "Landed",
+                    "time": "07:35",
+                    "timeStatus": "07:20"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "AJU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3967",
+                    "from": "Aracaju",
+                    "status": "Landed",
+                    "time": "07:35",
+                    "timeStatus": "07:26"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUX",
+                    "airline": "GOL Linhas Aereas (Tartarugas Ninja Sticker) -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31767",
+                    "from": "Belem",
+                    "status": "Landed",
+                    "time": "07:35",
+                    "timeStatus": "07:15"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUN",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31713",
+                    "from": "Cuiaba",
+                    "status": "Landed",
+                    "time": "07:40",
+                    "timeStatus": "07:19"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMJ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "POA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31729",
+                    "from": "Porto Alegre",
+                    "status": "Landed",
+                    "time": "07:40",
+                    "timeStatus": "07:18"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHJ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3725",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "07:40",
+                    "timeStatus": "07:36"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GXD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31492",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "07:45",
+                    "timeStatus": "07:23"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMA",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31745",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "07:45",
+                    "timeStatus": "07:31"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYW",
+                    "airline": "LATAM Airlines -",
+                    "airport": "POA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3433",
+                    "from": "Porto Alegre",
+                    "status": "Landed",
+                    "time": "07:45",
+                    "timeStatus": "07:42"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMB",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31623",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "07:44"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-VBQ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31703",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "07:30"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MAG",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3791",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "07:48"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MBN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3793",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "07:45"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GZH",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31402",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "07:55",
+                    "timeStatus": "07:55"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUR",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31747",
+                    "from": "Salvador",
+                    "status": "Landed",
+                    "time": "07:55",
+                    "timeStatus": "07:40"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GGM",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31755",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:55",
+                    "timeStatus": "07:52"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUL",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CWB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31785",
+                    "from": "Curitiba",
+                    "status": "Landed",
+                    "time": "07:55",
+                    "timeStatus": "07:37"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMZ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "PMW",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31169",
+                    "from": "Palmas",
+                    "status": "Landed",
+                    "time": "08:00",
+                    "timeStatus": "07:42"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GPC",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "FLN",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31753",
+                    "from": "Florianopolis",
+                    "status": "Landed",
+                    "time": "08:00",
+                    "timeStatus": "07:27"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XME",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MCZ",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G39005",
+                    "from": "Maceio",
+                    "status": "Landed",
+                    "time": "08:05",
+                    "timeStatus": "07:50"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AYZ",
+                    "airline": "Azul -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD6050",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "08:35",
+                    "timeStatus": "08:24"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEE",
+                    "airline": "Azul -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD4551",
+                    "from": "Belem",
+                    "status": "Landed",
+                    "time": "08:55",
+                    "timeStatus": "08:29"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXH",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA4676",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "09:00",
+                    "timeStatus": "08:41"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AES",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD4702",
+                    "from": "Campinas",
+                    "status": "Landed",
+                    "time": "09:35",
+                    "timeStatus": "09:22"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AXX",
+                    "airline": "Azul -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD4673",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "09:50",
+                    "timeStatus": "09:52"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GRG",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31440",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "09:55",
+                    "timeStatus": "09:51"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBP",
+                    "airline": "LATAM Airlines (Conheça o Brasil Voando Sticker) -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3004",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "10:05",
+                    "timeStatus": "09:55"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMR",
+                    "airline": "GOL Linhas Aereas (#MeuVooCompensa Livery) -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31412",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "10:35",
+                    "timeStatus": "10:19"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GEK",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31719",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "11:25",
+                    "timeStatus": "10:52"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3263",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "11:30",
+                    "timeStatus": "11:25"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3797",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "12:00",
+                    "timeStatus": "11:48"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3008",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "12:05",
+                    "timeStatus": "12:12"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA4653",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "12:25",
+                    "timeStatus": "12:13"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPE",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA4648",
+                    "from": "Goiania",
+                    "status": "Landed",
+                    "time": "12:30",
+                    "timeStatus": "12:42"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-YRH",
+                    "airline": "Azul -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD2961",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "12:35",
+                    "timeStatus": "12:24"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMH",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G32073",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "13:00",
+                    "timeStatus": "12:46"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3777",
+                    "from": "Salvador",
+                    "status": "Landed",
+                    "time": "13:00",
+                    "timeStatus": "12:50"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-VBQ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31721",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "13:20",
+                    "timeStatus": "12:56"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3781",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "13:20",
+                    "timeStatus": "13:04"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3609",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "13:40",
+                    "timeStatus": "13:17"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEP",
+                    "airline": "Azul -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD2780",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "13:55",
+                    "timeStatus": "13:51"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AYZ",
+                    "airline": "Azul -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD6002",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "14:00",
+                    "timeStatus": "13:57"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3265",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "14:05",
+                    "timeStatus": "13:57"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3403",
+                    "from": "Recife",
+                    "status": "Canceled",
+                    "time": "14:30",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEK",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD5007",
+                    "from": "Campinas",
+                    "status": "Landed",
+                    "time": "14:40",
+                    "timeStatus": "14:33"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMJ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31484",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "15:00",
+                    "timeStatus": "14:43"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "JPA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3505",
+                    "from": "Joao Pessoa",
+                    "status": "Landed",
+                    "time": "15:10",
+                    "timeStatus": "16:47"
+                },
+                {
+                    "aircraft": "A339",
+                    "aircraftName": "CS-TUS",
+                    "airline": "TAP Air Portugal -",
+                    "airport": "LIS",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "TP57",
+                    "from": "Lisbon",
+                    "status": "Landed",
+                    "time": "15:15",
+                    "timeStatus": "15:49"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3749",
+                    "from": "Manaus",
+                    "status": "Landed",
+                    "time": "15:50",
+                    "timeStatus": "15:38"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHJ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3247",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "15:55",
+                    "timeStatus": "15:54"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "PMW",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3573",
+                    "from": "Palmas",
+                    "status": "Landed",
+                    "time": "15:55",
+                    "timeStatus": "15:34"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMZ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MCZ",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G39118",
+                    "from": "Maceio",
+                    "status": "Landed",
+                    "time": "16:00",
+                    "timeStatus": "15:43"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GEK",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31733",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "16:50",
+                    "timeStatus": "16:25"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3741",
+                    "from": "Fortaleza",
+                    "status": "Landed",
+                    "time": "16:55",
+                    "timeStatus": "17:01"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MBN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "IMP",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3513",
+                    "from": "Imperatriz",
+                    "status": "Landed",
+                    "time": "17:00",
+                    "timeStatus": "16:31"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TPB",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3016",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "17:35",
+                    "timeStatus": "17:15"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AXC",
+                    "airline": "Azul -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD6006",
+                    "from": "Sao Paulo",
+                    "status": "Unknown",
+                    "time": "18:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TML",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3257",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "18:05",
+                    "timeStatus": "17:51"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BPS",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3709",
+                    "from": "Porto Seguro",
+                    "status": "Landed",
+                    "time": "18:20",
+                    "timeStatus": "18:03"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYZ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "THE",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3853",
+                    "from": "Teresina",
+                    "status": "Landed",
+                    "time": "18:20",
+                    "timeStatus": "18:01"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AXO",
+                    "airline": "Azul -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD4799",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "18:40",
+                    "timeStatus": "18:33"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3027",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "18:40",
+                    "timeStatus": "18:14"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXB",
+                    "airline": "LATAM Airlines -",
+                    "airport": "NAT",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3497",
+                    "from": "Natal",
+                    "status": "Landed",
+                    "time": "18:40",
+                    "timeStatus": "18:36"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHW",
+                    "airline": "LATAM Airlines -",
+                    "airport": "PVH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3899",
+                    "from": "Porto Velho",
+                    "status": "Landed",
+                    "time": "18:50",
+                    "timeStatus": "18:52"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SCL",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA8109",
+                    "from": "Santiago",
+                    "status": "Landed",
+                    "time": "19:00",
+                    "timeStatus": "18:49"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SLZ",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3805",
+                    "from": "Sao Luis",
+                    "status": "Landed",
+                    "time": "19:10",
+                    "timeStatus": "18:46"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3425",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "19:20",
+                    "timeStatus": "20:01"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYH",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3529",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "19:25",
+                    "timeStatus": "19:52"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBJ",
+                    "airline": "LATAM Airlines (Conheça o Brasil Voando Sticker) -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3757",
+                    "from": "Goiania",
+                    "status": "Landed",
+                    "time": "19:25",
+                    "timeStatus": "19:07"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA4649",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "19:25",
+                    "timeStatus": "19:02"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GOR",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31763",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "19:30",
+                    "timeStatus": "19:10"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3413",
+                    "from": "Cuiaba",
+                    "status": "Landed",
+                    "time": "19:30",
+                    "timeStatus": "19:12"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3721",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "19:30",
+                    "timeStatus": "19:14"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GXI",
+                    "airline": "GOL Linhas Aereas (Smiles Livery) -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31173",
+                    "from": "Campinas",
+                    "status": "Landed",
+                    "time": "19:35",
+                    "timeStatus": "18:59"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXE",
+                    "airline": "LATAM Airlines -",
+                    "airport": "POA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3225",
+                    "from": "Porto Alegre",
+                    "status": "Landed",
+                    "time": "19:35",
+                    "timeStatus": "19:17"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3729",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "19:40",
+                    "timeStatus": "19:22"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FLN",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3737",
+                    "from": "Florianopolis",
+                    "status": "Landed",
+                    "time": "19:40",
+                    "timeStatus": "19:24"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXG",
+                    "airline": "LATAM Airlines -",
+                    "airport": "VIX",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3867",
+                    "from": "Vitoria",
+                    "status": "Landed",
+                    "time": "19:40",
+                    "timeStatus": "19:42"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHQ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CWB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3111",
+                    "from": "Curitiba",
+                    "status": "Landed",
+                    "time": "19:45",
+                    "timeStatus": "19:42"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBD",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3212",
+                    "from": "Belem",
+                    "status": "Landed",
+                    "time": "19:45",
+                    "timeStatus": "19:26"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GXR",
+                    "airline": "GOL Linhas Aereas (150th Yr Santos Dumont Livery) -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31302",
+                    "from": "Salvador",
+                    "status": "Landed",
+                    "time": "19:50",
+                    "timeStatus": "20:06"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GXD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "JPA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G32103",
+                    "from": "Joao Pessoa",
+                    "status": "Landed",
+                    "time": "19:50",
+                    "timeStatus": "19:45"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3809",
+                    "from": "Salvador",
+                    "status": "Landed",
+                    "time": "19:50",
+                    "timeStatus": "19:32"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMW",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31456",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "19:55",
+                    "timeStatus": "19:20"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3743",
+                    "from": "Fortaleza",
+                    "status": "Landed",
+                    "time": "19:55",
+                    "timeStatus": "19:34"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXJ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MCZ",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3761",
+                    "from": "Maceio",
+                    "status": "Landed",
+                    "time": "19:55",
+                    "timeStatus": "19:56"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGR",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3807",
+                    "from": "Campo Grande",
+                    "status": "Landed",
+                    "time": "19:55",
+                    "timeStatus": "19:38"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUX",
+                    "airline": "GOL Linhas Aereas (Tartarugas Ninja Sticker) -",
+                    "airport": "CGB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31761",
+                    "from": "Cuiaba",
+                    "status": "Landed",
+                    "time": "20:00",
+                    "timeStatus": "19:48"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMN",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SLZ",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31735",
+                    "from": "Sao Luis",
+                    "status": "Landed",
+                    "time": "20:05",
+                    "timeStatus": "20:53"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYV",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3012",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "20:15",
+                    "timeStatus": "19:50"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GEJ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31464",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "21:15",
+                    "timeStatus": "20:46"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AXP",
+                    "airline": "Azul (TripAdvisor's World Best Airline Livery) -",
+                    "airport": "CGB",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD4812",
+                    "from": "Cuiaba",
+                    "status": "Landed",
+                    "time": "21:20",
+                    "timeStatus": "21:10"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TME",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "LA3018",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "21:40",
+                    "timeStatus": "21:06"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GEK",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G31765",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "22:20",
+                    "timeStatus": "21:47"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-YRV",
+                    "airline": "Azul (visitbrasil.com Livery) -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD4302",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "22:50",
+                    "timeStatus": "22:35"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEI",
+                    "airline": "Azul -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD6008",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "22:50",
+                    "timeStatus": "22:38"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUY",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "G32075",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "22:50",
+                    "timeStatus": "22:29"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEJ",
+                    "airline": "Azul -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD4126",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "23:25",
+                    "timeStatus": "23:12"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-YYD",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 10,
+                        "month": "May",
+                        "weekDay": "Saturday"
+                    },
+                    "flight": "AD6595",
+                    "from": "Campinas",
+                    "status": "Landed",
+                    "time": "23:40",
+                    "timeStatus": "23:18"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": "May",
+                "week-day": "Sunday",
+                "day": 11
+            },
+            "info": [
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "HP-1723CMP",
+                    "airline": "Copa Airlines -",
+                    "airport": "PTY",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "CM205",
+                    "from": "Panama City",
+                    "status": "Landed",
+                    "time": "00:05",
+                    "timeStatus": "23:59"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBJ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3259",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "00:15",
+                    "timeStatus": "00:06"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AED",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4978",
+                    "from": "Campinas",
+                    "status": "Landed",
+                    "time": "00:35",
+                    "timeStatus": "00:46"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3656",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "01:10",
+                    "timeStatus": "01:05"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "PVH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3669",
+                    "from": "Porto Velho",
+                    "status": "Landed",
+                    "time": "05:25",
+                    "timeStatus": "05:08"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEI",
+                    "airline": "Azul -",
+                    "airport": "NAT",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4014",
+                    "from": "Natal",
+                    "status": "Landed",
+                    "time": "05:45",
+                    "timeStatus": "05:37"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TME",
+                    "airline": "LATAM Airlines -",
+                    "airport": "RBR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3675",
+                    "from": "Rio Branco",
+                    "status": "Landed",
+                    "time": "05:45",
+                    "timeStatus": "05:19"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMV",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MCO",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G37601",
+                    "from": "Orlando",
+                    "status": "Landed",
+                    "time": "06:05",
+                    "timeStatus": "06:01"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XME",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CUN",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G37725",
+                    "from": "Cancun",
+                    "status": "Landed",
+                    "time": "06:35",
+                    "timeStatus": "05:51"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GGL",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "AEP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G37061",
+                    "from": "Buenos Aires",
+                    "status": "Landed",
+                    "time": "07:00",
+                    "timeStatus": "06:48"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "CC-BFH",
+                    "airline": "LATAM Airlines -",
+                    "airport": "LIM",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA2402",
+                    "from": "Lima",
+                    "status": "Landed",
+                    "time": "07:00",
+                    "timeStatus": "07:09"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TPB",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MCP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3769",
+                    "from": "Macapa",
+                    "status": "Landed",
+                    "time": "07:00",
+                    "timeStatus": "06:38"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "JPA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3495",
+                    "from": "Joao Pessoa",
+                    "status": "Landed",
+                    "time": "07:05",
+                    "timeStatus": "06:43"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXE",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3754",
+                    "from": "Goiania",
+                    "status": "Landed",
+                    "time": "07:05",
+                    "timeStatus": "06:51"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMM",
+                    "airline": "GOL Linhas Aereas (Conheça o Brasil Voando) -",
+                    "airport": "RBR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31253",
+                    "from": "Rio Branco",
+                    "status": "Landed",
+                    "time": "07:10",
+                    "timeStatus": "07:06"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXG",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BVB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3711",
+                    "from": "Boa Vista",
+                    "status": "Landed",
+                    "time": "07:10",
+                    "timeStatus": "07:01"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GRD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MIA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G37749",
+                    "from": "Miami",
+                    "status": "Landed",
+                    "time": "07:15",
+                    "timeStatus": "06:55"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMW",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31743",
+                    "from": "Manaus",
+                    "status": "Landed",
+                    "time": "07:15",
+                    "timeStatus": "06:50"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMS",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MCZ",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31773",
+                    "from": "Maceio",
+                    "status": "Landed",
+                    "time": "07:15",
+                    "timeStatus": "07:04"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUZ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31707",
+                    "from": "Fortaleza",
+                    "status": "Landed",
+                    "time": "07:20",
+                    "timeStatus": "07:53"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SLZ",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3313",
+                    "from": "Sao Luis",
+                    "status": "Landed",
+                    "time": "07:20",
+                    "timeStatus": "07:07"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYZ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "THE",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3851",
+                    "from": "Teresina",
+                    "status": "Landed",
+                    "time": "07:20",
+                    "timeStatus": "07:11"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3123",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "06:59"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3501",
+                    "from": "Maraba",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "07:17"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MBA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3739",
+                    "from": "Fortaleza",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "06:57"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3747",
+                    "from": "Manaus",
+                    "status": "Landed",
+                    "time": "07:25",
+                    "timeStatus": "07:15"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3717",
+                    "from": "Campo Grande",
+                    "status": "Landed",
+                    "time": "07:30",
+                    "timeStatus": "07:13"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MAG",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3811",
+                    "from": "Salvador",
+                    "status": "Landed",
+                    "time": "07:35",
+                    "timeStatus": "07:21"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31767",
+                    "from": "Belem",
+                    "status": "Landed",
+                    "time": "07:35",
+                    "timeStatus": "07:12"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3705",
+                    "from": "Belem",
+                    "status": "Landed",
+                    "time": "07:35",
+                    "timeStatus": "07:22"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "AJU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3967",
+                    "from": "Aracaju",
+                    "status": "Landed",
+                    "time": "07:35",
+                    "timeStatus": "07:17"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GZS",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31151",
+                    "from": "Goiania",
+                    "status": "Landed",
+                    "time": "07:40",
+                    "timeStatus": "07:19"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMC",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "POA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31729",
+                    "from": "Porto Alegre",
+                    "status": "Landed",
+                    "time": "07:40",
+                    "timeStatus": "07:21"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3725",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "07:40",
+                    "timeStatus": "07:38"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GZW",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31492",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "07:45",
+                    "timeStatus": "07:26"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GXC",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31745",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "07:45",
+                    "timeStatus": "07:32"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "POA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3433",
+                    "from": "Porto Alegre",
+                    "status": "Landed",
+                    "time": "07:45",
+                    "timeStatus": "07:24"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GPA",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31623",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "07:48"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GEA",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31703",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "07:34"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHQ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3791",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "07:42"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3793",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:50",
+                    "timeStatus": "08:27"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GXW",
+                    "airline": "GOL Linhas Aereas (Monica's 60 Livery) -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31402",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "07:55",
+                    "timeStatus": "07:32"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMX",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31755",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "07:55",
+                    "timeStatus": "07:45"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GPD",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CWB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31785",
+                    "from": "Curitiba",
+                    "status": "Landed",
+                    "time": "07:55",
+                    "timeStatus": "07:44"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GGR",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "NAT",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31783",
+                    "from": "Natal",
+                    "status": "Landed",
+                    "time": "08:00",
+                    "timeStatus": "07:43"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBL",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA4676",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "09:00",
+                    "timeStatus": "08:45"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AXC",
+                    "airline": "Azul -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD6002",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "09:10",
+                    "timeStatus": "08:52"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEY",
+                    "airline": "Azul (Brazilian Flag Livery) -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4702",
+                    "from": "Campinas",
+                    "status": "Landed",
+                    "time": "09:35",
+                    "timeStatus": "09:24"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEW",
+                    "airline": "Azul -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4673",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "09:50",
+                    "timeStatus": "09:42"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GEQ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31440",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "09:55",
+                    "timeStatus": "09:31"
+                },
+                {
+                    "aircraft": "E35L",
+                    "aircraftName": "PT-FKK",
+                    "airline": "-",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "09:55",
+                    "timeStatus": "10:21"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMD",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3004",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "10:05",
+                    "timeStatus": "09:46"
+                },
+                {
+                    "aircraft": "B763",
+                    "aircraftName": "CC-CXE",
+                    "airline": "LATAM Cargo -",
+                    "airport": "MIA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "M39833",
+                    "from": "Miami",
+                    "status": "Landed",
+                    "time": "10:25",
+                    "timeStatus": "13:40"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMY",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31412",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "10:35",
+                    "timeStatus": "10:14"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-YYJ",
+                    "airline": "Azul -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD2961",
+                    "from": "Recife",
+                    "status": "Landed",
+                    "time": "11:10",
+                    "timeStatus": "11:40"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PS-GPQ",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31442",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "11:10",
+                    "timeStatus": "10:55"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GYA",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31719",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "11:25",
+                    "timeStatus": "11:04"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3263",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "11:30",
+                    "timeStatus": "11:11"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3797",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "12:00",
+                    "timeStatus": "11:41"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYA",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3723",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "12:15",
+                    "timeStatus": "11:56"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYL",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3008",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "12:25",
+                    "timeStatus": "12:04"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYV",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA4648",
+                    "from": "Goiania",
+                    "status": "Landed",
+                    "time": "12:30",
+                    "timeStatus": "12:22"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUN",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G32073",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "13:00",
+                    "timeStatus": "12:33"
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBJ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3777",
+                    "from": "Salvador",
+                    "status": "Landed",
+                    "time": "13:00",
+                    "timeStatus": "13:11"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3108",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "13:05",
+                    "timeStatus": "12:56"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "IMP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3513",
+                    "from": "Imperatriz",
+                    "status": "Landed",
+                    "time": "13:05",
+                    "timeStatus": "12:52"
+                },
+                {
+                    "aircraft": "B737",
+                    "aircraftName": "PR-GOR",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31721",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "13:20",
+                    "timeStatus": "12:57"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3781",
+                    "from": "Rio de Janeiro",
+                    "status": "Landed",
+                    "time": "13:30",
+                    "timeStatus": "13:19"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AUQ",
+                    "airline": "Azul (Sky Livery) -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD2780",
+                    "from": "Belo Horizonte",
+                    "status": "Landed",
+                    "time": "13:55",
+                    "timeStatus": "13:48"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPE",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3265",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "14:05",
+                    "timeStatus": "14:19"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MHZ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3846",
+                    "from": "Sao Paulo",
+                    "status": "Landed",
+                    "time": "14:25",
+                    "timeStatus": "14:14"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYZ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3403",
+                    "from": "Recife",
+                    "status": "Delayed",
+                    "time": "14:30",
+                    "timeStatus": "15:08"
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AES",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD5007",
+                    "from": "Campinas",
+                    "status": "Landed",
+                    "time": "14:50",
+                    "timeStatus": "14:39"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMY",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31484",
+                    "from": "Sao Paulo",
+                    "status": "Delayed",
+                    "time": "15:00",
+                    "timeStatus": "15:25"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "JPA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3505",
+                    "from": "Joao Pessoa",
+                    "status": "Landed",
+                    "time": "15:10",
+                    "timeStatus": "15:01"
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MAG",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3749",
+                    "from": "Manaus",
+                    "status": "Landed",
+                    "time": "15:15",
+                    "timeStatus": "14:57"
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3247",
+                    "from": "Sao Paulo",
+                    "status": "Estimated",
+                    "time": "15:55",
+                    "timeStatus": "15:46"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBS",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3741",
+                    "from": "Fortaleza",
+                    "status": "Estimated",
+                    "time": "15:55",
+                    "timeStatus": "15:40"
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TMI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "PMW",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3573",
+                    "from": "Palmas",
+                    "status": "Estimated",
+                    "time": "15:55",
+                    "timeStatus": "15:33"
+                },
+                {
+                    "aircraft": "B738",
+                    "aircraftName": "PR-GUK",
+                    "airline": "GOL Linhas Aereas (Voa Canarinho Livery) -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31452",
+                    "from": "Sao Paulo",
+                    "status": "Estimated",
+                    "time": "16:00",
+                    "timeStatus": "15:40"
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMH",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31859",
+                    "from": "Salvador",
+                    "status": "Estimated",
+                    "time": "16:05",
+                    "timeStatus": "15:52"
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AYW",
+                    "airline": "Azul -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4524",
+                    "from": "Sao Paulo",
+                    "status": "Estimated",
+                    "time": "16:15",
+                    "timeStatus": "16:18"
+                },
+                {
+                    "aircraft": "737",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31733",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "16:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MBN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3257",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "16:55",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31977",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "17:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3609",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "17:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31454",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "18:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYV",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3027",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "18:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BVB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3713",
+                    "from": "Boa Vista",
+                    "status": "Estimated",
+                    "time": "18:00",
+                    "timeStatus": "18:07"
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-YYJ",
+                    "airline": "Azul -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4612",
+                    "from": "Recife",
+                    "status": "Scheduled",
+                    "time": "18:15",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBF",
+                    "airline": "LATAM Airlines -",
+                    "airport": "THE",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3853",
+                    "from": "Teresina",
+                    "status": "Scheduled",
+                    "time": "18:20",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31446",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "18:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-ADF",
+                    "airline": "Azul -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4799",
+                    "from": "Belo Horizonte",
+                    "status": "Scheduled",
+                    "time": "18:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "NAT",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3497",
+                    "from": "Natal",
+                    "status": "Scheduled",
+                    "time": "18:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31460",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "18:55",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TQB",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA4736",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "19:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPB",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SLZ",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3805",
+                    "from": "Sao Luis",
+                    "status": "Scheduled",
+                    "time": "19:10",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEX",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4548",
+                    "from": "Campinas",
+                    "status": "Scheduled",
+                    "time": "19:15",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXL",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CWB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3111",
+                    "from": "Curitiba",
+                    "status": "Scheduled",
+                    "time": "19:20",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PT-TME",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3729",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "19:20",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MCZ",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31999",
+                    "from": "Maceio",
+                    "status": "Scheduled",
+                    "time": "19:25",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYF",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3413",
+                    "from": "Cuiaba",
+                    "status": "Scheduled",
+                    "time": "19:25",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3529",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "19:25",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TQC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3757",
+                    "from": "Goiania",
+                    "status": "Scheduled",
+                    "time": "19:30",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "319",
+                    "aircraftName": "",
+                    "airline": "LATAM Airlines -",
+                    "airport": "OPS",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3969",
+                    "from": "Sinop",
+                    "status": "Scheduled",
+                    "time": "19:30",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "737",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31763",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "19:30",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31173",
+                    "from": "Campinas",
+                    "status": "Scheduled",
+                    "time": "19:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "POA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3225",
+                    "from": "Porto Alegre",
+                    "status": "Scheduled",
+                    "time": "19:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MAK",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3721",
+                    "from": "Belo Horizonte",
+                    "status": "Scheduled",
+                    "time": "19:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "737",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31787",
+                    "from": "Goiania",
+                    "status": "Scheduled",
+                    "time": "19:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "737",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31771",
+                    "from": "Belem",
+                    "status": "Scheduled",
+                    "time": "19:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXP",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FLN",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3737",
+                    "from": "Florianopolis",
+                    "status": "Scheduled",
+                    "time": "19:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXH",
+                    "airline": "LATAM Airlines -",
+                    "airport": "VIX",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3867",
+                    "from": "Vitoria",
+                    "status": "Scheduled",
+                    "time": "19:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA4649",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "19:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31759",
+                    "from": "Recife",
+                    "status": "Scheduled",
+                    "time": "19:45",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3012",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "19:45",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXF",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3212",
+                    "from": "Belem",
+                    "status": "Scheduled",
+                    "time": "19:45",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31727",
+                    "from": "Manaus",
+                    "status": "Scheduled",
+                    "time": "19:45",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31302",
+                    "from": "Salvador",
+                    "status": "Scheduled",
+                    "time": "19:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31456",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "19:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "JPA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G32103",
+                    "from": "Joao Pessoa",
+                    "status": "Scheduled",
+                    "time": "19:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-TYO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "SSA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3809",
+                    "from": "Salvador",
+                    "status": "Scheduled",
+                    "time": "19:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CWB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31757",
+                    "from": "Curitiba",
+                    "status": "Scheduled",
+                    "time": "19:55",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3425",
+                    "from": "Recife",
+                    "status": "Scheduled",
+                    "time": "19:55",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBJ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3743",
+                    "from": "Fortaleza",
+                    "status": "Scheduled",
+                    "time": "19:55",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPG",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MCZ",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3761",
+                    "from": "Maceio",
+                    "status": "Scheduled",
+                    "time": "19:55",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "B38M",
+                    "aircraftName": "PR-XMS",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "RBR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31245",
+                    "from": "Rio Branco",
+                    "status": "Scheduled",
+                    "time": "20:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31709",
+                    "from": "Fortaleza",
+                    "status": "Scheduled",
+                    "time": "20:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "NAT",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31791",
+                    "from": "Natal",
+                    "status": "Scheduled",
+                    "time": "20:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGR",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3807",
+                    "from": "Campo Grande",
+                    "status": "Scheduled",
+                    "time": "20:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "POA",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31701",
+                    "from": "Porto Alegre",
+                    "status": "Scheduled",
+                    "time": "20:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SLZ",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31735",
+                    "from": "Sao Luis",
+                    "status": "Scheduled",
+                    "time": "20:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BPS",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3709",
+                    "from": "Porto Seguro",
+                    "status": "Scheduled",
+                    "time": "20:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31705",
+                    "from": "Belo Horizonte",
+                    "status": "Scheduled",
+                    "time": "20:20",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEE",
+                    "airline": "Azul -",
+                    "airport": "BEL",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4084",
+                    "from": "Belem",
+                    "status": "Scheduled",
+                    "time": "20:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3018",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "21:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31464",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "21:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEH",
+                    "airline": "Azul -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD6007",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "21:55",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBG",
+                    "airline": "LATAM Airlines (Brasil Flag Livery) -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA4546",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "22:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "737",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "SDU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31765",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "22:20",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-YYH",
+                    "airline": "Azul -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4302",
+                    "from": "Recife",
+                    "status": "Scheduled",
+                    "time": "22:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GIG",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G32075",
+                    "from": "Rio de Janeiro",
+                    "status": "Scheduled",
+                    "time": "22:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MBV",
+                    "airline": "LATAM Airlines -",
+                    "airport": "CGH",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "LA3022",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "23:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E195",
+                    "aircraftName": "PR-AUQ",
+                    "airline": "Azul (Sky Livery) -",
+                    "airport": "CGB",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD2789",
+                    "from": "Cuiaba",
+                    "status": "Scheduled",
+                    "time": "23:15",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-ADB",
+                    "airline": "Azul -",
+                    "airport": "CNF",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD4126",
+                    "from": "Belo Horizonte",
+                    "status": "Scheduled",
+                    "time": "23:25",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "73H",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "G31418",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "23:40",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-YRW",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 11,
+                        "month": "May",
+                        "weekDay": "Sunday"
+                    },
+                    "flight": "AD6595",
+                    "from": "Campinas",
+                    "status": "Scheduled",
+                    "time": "23:40",
+                    "timeStatus": ""
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": "May",
+                "week-day": "Monday",
+                "day": 12
+            },
+            "info": [
+                {
+                    "aircraft": "738",
+                    "aircraftName": "",
+                    "airline": "Copa Airlines -",
+                    "airport": "PTY",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "CM205",
+                    "from": "Panama City",
+                    "status": "Scheduled",
+                    "time": "00:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3259",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "00:15",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "E295",
+                    "aircraftName": "PS-AEV",
+                    "airline": "Azul -",
+                    "airport": "VCP",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "AD4978",
+                    "from": "Campinas",
+                    "status": "Scheduled",
+                    "time": "00:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-MXJ",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GRU",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3656",
+                    "from": "Sao Paulo",
+                    "status": "Scheduled",
+                    "time": "01:10",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYO",
+                    "airline": "LATAM Airlines -",
+                    "airport": "PVH",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3669",
+                    "from": "Porto Velho",
+                    "status": "Scheduled",
+                    "time": "05:25",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "RBR",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3675",
+                    "from": "Rio Branco",
+                    "status": "Scheduled",
+                    "time": "05:45",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MBV",
+                    "airline": "LATAM Airlines -",
+                    "airport": "STM",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3841",
+                    "from": "Santarem",
+                    "status": "Scheduled",
+                    "time": "05:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "7M8",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MCO",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G37601",
+                    "from": "Orlando",
+                    "status": "Scheduled",
+                    "time": "06:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "7M8",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "BVB",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G31122",
+                    "from": "Boa Vista",
+                    "status": "Scheduled",
+                    "time": "06:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "738",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MAB",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G31673",
+                    "from": "Maraba",
+                    "status": "Scheduled",
+                    "time": "06:15",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "738",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "THE",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G31519",
+                    "from": "Teresina",
+                    "status": "Scheduled",
+                    "time": "06:35",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "7M8",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "BOG",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G38243",
+                    "from": "Bogota",
+                    "status": "Scheduled",
+                    "time": "06:50",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "7M8",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "AEP",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G37061",
+                    "from": "Buenos Aires",
+                    "status": "Scheduled",
+                    "time": "07:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "CC-CPI",
+                    "airline": "LATAM Airlines -",
+                    "airport": "LIM",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA2402",
+                    "from": "Lima",
+                    "status": "Scheduled",
+                    "time": "07:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYX",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MCP",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3769",
+                    "from": "Macapa",
+                    "status": "Scheduled",
+                    "time": "07:00",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A20N",
+                    "aircraftName": "PR-XBC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "JPA",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3495",
+                    "from": "Joao Pessoa",
+                    "status": "Scheduled",
+                    "time": "07:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYK",
+                    "airline": "LATAM Airlines -",
+                    "airport": "GYN",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3754",
+                    "from": "Goiania",
+                    "status": "Scheduled",
+                    "time": "07:05",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A320",
+                    "aircraftName": "PR-MYN",
+                    "airline": "LATAM Airlines -",
+                    "airport": "BVB",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3711",
+                    "from": "Boa Vista",
+                    "status": "Scheduled",
+                    "time": "07:10",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "7M8",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MIA",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G37749",
+                    "from": "Miami",
+                    "status": "Scheduled",
+                    "time": "07:15",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "7M8",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G31743",
+                    "from": "Manaus",
+                    "status": "Scheduled",
+                    "time": "07:15",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "738",
+                    "aircraftName": "",
+                    "airline": "GOL Linhas Aereas -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "G31707",
+                    "from": "Fortaleza",
+                    "status": "Scheduled",
+                    "time": "07:20",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPG",
+                    "airline": "LATAM Airlines -",
+                    "airport": "FOR",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3739",
+                    "from": "Fortaleza",
+                    "status": "Scheduled",
+                    "time": "07:20",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A321",
+                    "aircraftName": "PT-XPE",
+                    "airline": "LATAM Airlines -",
+                    "airport": "REC",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3123",
+                    "from": "Recife",
+                    "status": "Scheduled",
+                    "time": "07:25",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A319",
+                    "aircraftName": "PR-MYM",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAB",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3501",
+                    "from": "Maraba",
+                    "status": "Scheduled",
+                    "time": "07:25",
+                    "timeStatus": ""
+                },
+                {
+                    "aircraft": "A21N",
+                    "aircraftName": "PS-LBC",
+                    "airline": "LATAM Airlines -",
+                    "airport": "MAO",
+                    "date": {
+                        "day": 12,
+                        "month": "May",
+                        "weekDay": "Monday"
+                    },
+                    "flight": "LA3747",
+                    "from": "Manaus",
+                    "status": "Scheduled",
+                    "time": "07:25",
+                    "timeStatus": ""
+                }
+            ]
+        }
+    ]
+}

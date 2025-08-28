@@ -1,0 +1,9 @@
+flask
+transformers
+torch
+selenium
+time
+re
+json
+collections
+chromedriver_autoinstaller
