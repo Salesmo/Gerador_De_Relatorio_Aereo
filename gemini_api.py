@@ -1,7 +1,7 @@
 import google.generativeai as geneai
 
 print("Configurando API do Gemini...")
-GOOGLE_GEMINI_API_KEY = "AIzaSyB2G_ZKM1cefh4o7YO0vvx0WRxStgxhKHw"
+GOOGLE_GEMINI_API_KEY = "Para testar, digite uma chave válida!!!!"
 geneai.configure(api_key=GOOGLE_GEMINI_API_KEY)
 model = geneai.GenerativeModel("gemini-2.0-flash-lite")
 chat = model.start_chat(history=[])
